@@ -56,9 +56,10 @@ img {
     position: absolute;
     top: 194px;
     left: 0px;
-    background-image: url("../img/header-before-shape.png");
+    background-image: url("../Muncake/img/header-before-shape.png");
     content: "";
 }
+
 
 .main-header::after {
     width: 140px;
@@ -66,7 +67,7 @@ img {
     position: absolute;
     right: 88px;
     bottom: -40px;
-    background-image: url("../img/header-after-shape.png");
+    background-image: url("../Muncake/img/header-after-shape.png");
     content: "";
 }
 
@@ -153,7 +154,7 @@ img {
     text-decoration: none;
     color: #ffffff;
     background-color: #2870db;
-    cursor: url(../img/cursor.png), auto;
+    cursor: url(../Muncake/img/cursor.png), auto;
 }
 
 .start-btn {
@@ -163,9 +164,9 @@ img {
 .main-page {
     min-height: 3564px;
     background-image: 
-    url("../img/big-main-shape.png"),
-    url("../img/half-circle-small.png"),
-    url("../img/half-circle-big.png");
+    url("../Muncake/img/big-main-shape.png"),
+    url("../Muncake/img/half-circle-small.png"),
+    url("../Muncake/img/half-circle-big.png");
     background-repeat: no-repeat, no-repeat;
     background-position: left 247px, right 230px, right 723px;
 }
@@ -173,7 +174,7 @@ img {
 .our-work {
     margin-top: 193px;
     position: relative;
-    background-image: url("../img/small-pink-circle.png");
+    background-image: url("../Muncake/img/small-pink-circle.png");
     background-repeat: no-repeat;
     background-position: 865px 718px;
 }
@@ -224,7 +225,7 @@ img {
 .our-work-item:first-child::before {
     right: 159px;
     bottom: 378px;
-    background-image: url("../img/horn.png");
+    background-image: url("../Muncake/img/horn.png");
     background-repeat: no-repeat;
 }
 
@@ -240,7 +241,7 @@ img {
 .our-work-item:nth-child(2)::before {
     right: 155px;
     bottom: 391px;
-    background-image: url("../img/hand.png");
+    background-image: url("../Muncake/img/hand.png");
     background-repeat: no-repeat;
 }
 
@@ -255,7 +256,7 @@ img {
 .our-work-item:nth-child(3)::before {
     right: 164px;
     bottom: 336px;
-    background-image: url("../img/mountein.png");
+    background-image: url("../Muncake/img/mountein.png");
     background-repeat: no-repeat;
 }
 
@@ -281,7 +282,7 @@ img {
 .achievements {
     padding-bottom: 189px;
     margin-top: 223px;
-    background-image: url(../img/achievements-shape.png);
+    background-image: url(../Muncake/img/achievements-shape.png);
     background-repeat: no-repeat;
     background-position: 160px 304px;
 }
@@ -350,8 +351,8 @@ img {
 .trails {
     padding-bottom: 205px;
     background-image: 
-    url(../img/trails-section-shape-blue.png),
-    url(../img/trails-section-shape-light.png);
+    url(../Muncake/img/trails-section-shape-blue.png),
+    url(../Muncake/img/trails-section-shape-light.png);
     background-repeat: no-repeat;
     background-position: 0 124px, 100% 20px;
 }
@@ -386,7 +387,7 @@ img {
     position: absolute;
     right: -36px;
     bottom: -21px;
-    background-image: url("../img/article-circle.png");
+    background-image: url("../Muncake/img/article-circle.png");
     content: "";
 }
 
@@ -440,7 +441,7 @@ img {
     border-radius: 26px;
     box-shadow: 0px 42px 35px 0px rgba(22, 78, 160);
     text-align: center;
-    background-image: url(../img/form-background.jpg);
+    background-image: url(../Muncake/img/form-background.jpg);
     background-position: center;
 }
 
@@ -450,7 +451,7 @@ img {
     position: absolute;
     bottom: 149px;
     left: 1320px;
-    background-image: url(../img/header-after-shape.png);
+    background-image: url(../Muncake/img/header-after-shape.png);
     content: "";
 }
 
@@ -495,7 +496,7 @@ img {
 .main-footer {
     height: 1008px;
     margin-top: -422px;
-    background-image: url("../img/footer-background.png");
+    background-image: url("../Muncake/img/footer-background.png");
     background-repeat: no-repeat;
     background-position: center;
 }
